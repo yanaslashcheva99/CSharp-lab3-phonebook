@@ -1,0 +1,32 @@
+﻿{
+  "People": [
+      {
+          "FirstName": "Трубина Настя",
+          "Address": "ул. Генерала Зимина 12-168",
+          "PhoneNumber": "8-905-666-2695",
+          "Email": "anagerilda@gmail.com",
+          "Additional": "ФИИТ"
+      },
+      {
+          "FirstName": "Земляникин Женя",
+          "Address": "ул. Генерала Штеменко 9/16-25",
+          "PhoneNumber": "8-906-364-8499",
+          "Email": "id.zevs@yandex.ru",
+          "Additional": "ФИИТ"
+      },
+      {
+          "FirstName": "Новикова Лера",
+          "Address": "ул. Бориса Панина 4-77",
+          "PhoneNumber": "8-930-672-6339",
+          "Email": "vel_nonikova@mail.ru",
+          "Additional": "ПИ"
+      },
+      {
+          "FirstName": "Охлопкова Наташа",
+          "Address": "ул. Перекопская 1А-35",
+          "PhoneNumber": "8-904-048-39-03",
+          "Email": "akemi_joker@gmail.com",
+          "Additional": "МКН"
+      }
+    ]
+}
